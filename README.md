@@ -74,5 +74,5 @@ List of site references and useful sources for beginners of c++ programming lang
 ## Authors
 
 - esmaeelE
-- Max Base
+- Max Base, https://maxbase.org
 - Yousof.LHC++
