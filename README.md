@@ -1,10 +1,8 @@
-# CPP Beginners
+# C++4Beginners
 
-List of site references and useful sources for beginners of c++ programming language. 
+List of useful resources for beginners to learn [C++ programming language](https://en.wikipedia.org/wiki/C%2B%2B). 
 
 # How to start programming with C++
-
-# C++ links
 
 ## Tutorial
 
@@ -12,10 +10,6 @@ List of site references and useful sources for beginners of c++ programming lang
 2. [C++ Annotations, by Frank B. Brokken, University of Groningen, Netherlands](http://www.icce.rug.nl/documents/cplusplus)
 3. [Standard C++ Programming, Anna Zeng and Avery Wang, University of Stanford, US](http://web.stanford.edu/class/cs106l/index.html)
 4. [C++ Programming wiki book](https://en.wikibooks.org/wiki/C++_Programming)
-
-## Reference
-
-1. https://en.cppreference.com/w/cpp
 
 ## Standards
 
@@ -28,7 +22,7 @@ List of site references and useful sources for beginners of c++ programming lang
 
 1. [Qt Creator-opensource](https://download.qt.io/archive/qtcreator/4.4/4.4.1/) 
 2. [Code::Blocks](http://www.codeblocks.org/) Code::Blocks The open source, cross platform, free C, C++ and Fortran IDE.
-3. [Dev c++](http://orwelldevcpp.blogspot.com/2015/04/dev-c-511-released.html?m=1) 
+3. [Dev-C++](https://www.bloodshed.net/devcpp.html) 
 4. [Visual Studio Code](https://code.visualstudio.com/download) 
 5. [Visual Studio](https://visualstudio.microsoft.com/downloads/) 
 
@@ -48,6 +42,9 @@ List of site references and useful sources for beginners of c++ programming lang
 6. Beginnig C++17 (Ivor Horton,  Peter Van Weert, *Apress)
 7. C++17 STL Cookbook
 8. Using C++ Standard Template Libraries (Ivor Horton, *Apress)
+9. (Think C++, by Allen B. Downey. )[http://greenteapress.com/thinkcpp/index.html]
+10.
+- [Stack overflow's: The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282)
 
 
 
@@ -58,10 +55,8 @@ List of site references and useful sources for beginners of c++ programming lang
 
 ## Interviews
 
-
 ## Miscellaneous links
 
-- https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282
 - https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/lecture-notes/
 - https://github.com/fffaraz/awesome-cpp
@@ -70,6 +65,11 @@ List of site references and useful sources for beginners of c++ programming lang
 - https://github.com/sinairv/Cpp-Tutorial-Samples
 - https://github.com/utkuufuk/cpp-quick-reference
 - https://www.nikhef.nl/~h24/cplusplus/
+
+## Reference
+
+1. https://en.cppreference.com/w/cpp
+
 
 ## Authors
 
