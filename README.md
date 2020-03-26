@@ -43,15 +43,11 @@ List of useful resources for beginners to learn [C++ programming language](https
 7. C++17 STL Cookbook
 8. Using C++ Standard Template Libraries (Ivor Horton, *Apress)
 9. [Think C++, by Allen B. Downey](http://greenteapress.com/thinkcpp/index.html)
-10.
-- [Stack overflow's: The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282)
-
-
+10. [Stack overflow's: The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282)
 
 ## FAQ
 
 1. [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
-
 
 ## Interviews
 
