@@ -2,21 +2,12 @@
 
 List of useful resources for beginners to learn [C++ programming language](https://en.wikipedia.org/wiki/C%2B%2B). 
 
-# How to start programming with C++
-
 ## Tutorial
 
 1. [cplusplus dot com Tutorial](http://www.cplusplus.com/doc/tutorial)
 2. [C++ Annotations, by Frank B. Brokken, University of Groningen, Netherlands](http://www.icce.rug.nl/documents/cplusplus)
 3. [Standard C++ Programming, Anna Zeng and Avery Wang, University of Stanford, US](http://web.stanford.edu/class/cs106l/index.html)
 4. [C++ Programming wiki book](https://en.wikibooks.org/wiki/C++_Programming)
-
-## Standards
-
-1. [C++ 11](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf)
-2. [C++ 14](https://github.com/cplusplus/draft/blob/master/papers/n4140.pdf)
-3. [C++ 17](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf)
-
 
 ## IDE
 
@@ -30,6 +21,13 @@ List of useful resources for beginners to learn [C++ programming language](https
 
 1. [GCC](https://gcc.gnu.org/), GCC the GNU Compiler Collection
 2. [Clang](https://clang.llvm.org/), Clang: a C language family frontend for LLVM
+
+
+## Standards
+
+1. [C++ 11](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf)
+2. [C++ 14](https://github.com/cplusplus/draft/blob/master/papers/n4140.pdf)
+3. [C++ 17](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf)
 
 
 ## Books
@@ -49,7 +47,16 @@ List of useful resources for beginners to learn [C++ programming language](https
 
 1. [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
 
+## How to ask for help
+
+1. [How To Ask Questions The Smart Way, eric S. Raymond](http://catb.org/esr/faqs/smart-questions.html), [Persian translation](https://wiki.ubuntu.ir/wiki/Smart_Questions), [An altrenative in Persian](https://forum.ubuntu.ir/index.php?topic=17327.0)
+
 ## Interviews
+
+[Todo]
+
+## Forum & IRC channels
+[Todo]
 
 ## Miscellaneous links
 
