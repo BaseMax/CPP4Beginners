@@ -11,11 +11,11 @@ List of useful resources for beginners to learn [C++ programming language](https
 
 ## IDE
 
-1. [Qt Creator-opensource](https://download.qt.io/archive/qtcreator/4.4/4.4.1/) 
+1. [Qt Creator-opensource](https://download.qt.io/archive/qtcreator/) download latest version. 
 2. [Code::Blocks](http://www.codeblocks.org/) Code::Blocks The open source, cross platform, free C, C++ and Fortran IDE.
 3. [Dev-C++](https://www.bloodshed.net/devcpp.html) 
-4. [Visual Studio Code](https://code.visualstudio.com/download) 
-5. [Visual Studio](https://visualstudio.microsoft.com/downloads/) 
+4. [Visual Studio Code](https://code.visualstudio.com/download), or if you prefer free software use [vscodium](https://vscodium.com/)
+5. [Visual Studio](https://visualstudio.microsoft.com/downloads/), just for Microsoft windows.
 
 ## Compilers
 
